@@ -10,4 +10,5 @@ using MQ-3 sensor and Sparkfun Breakout PCB
    - (A1 TO +5V)
    - (H1 TO +5V)
    - [B1 TO (10kohm to ground) AND TO (Analog pin)].
-   
+
+Schematics to come
